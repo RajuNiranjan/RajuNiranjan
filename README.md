@@ -1,3 +1,5 @@
+![](https://github.com/RajuNiranjan/RajuNiranjan/blob/master/Untitled-1.jpg)
+
 <h1 align="center">Hi 👋, I'm Niranjan Raju</h1>
 <h3 align="center">Front-end Developer | React JS Developer | Web Developer</h3>
 
