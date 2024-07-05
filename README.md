@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next JS, Node JS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ashy-two-49.vercel.app/](https://portfolio-ashy-two-49.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-ashy-two-49.vercel.app/](https://rajuportfolio.vercel.app)
 
 - 💬 Ask me about **React JS, JavaScript**
 
