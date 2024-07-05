@@ -1,7 +1,7 @@
 ![](https://github.com/RajuNiranjan/RajuNiranjan/blob/master/Untitled-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Niranjan Raju</h1>
-<h3 align="center">Front-end Developer | React JS Developer | Web Developer</h3>
+<h3 align="center">Full Stack Developer | Web Developer</h3>
 
 <img src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" align="right" alt="Gif"  width="400"/>
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Next JS, Node JS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ashy-two-49.vercel.app/](https://rajuportfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio](https://rajuportfolio.vercel.app)
 
-- 💬 Ask me about **React JS, JavaScript**
+- 💬 Ask me about **React JS, Next.js, TypeScript, JavaScript**
 
 - 📫 How to reach me **rajuniranjan1910@gmail.com**
 
