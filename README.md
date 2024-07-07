@@ -1,7 +1,7 @@
 ![](https://github.com/RajuNiranjan/RajuNiranjan/blob/master/Untitled-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Niranjan Raju</h1>
-<h3 align="center">Full Stack Developer | Web Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <img src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" align="right" alt="Gif"  width="400"/>
 
