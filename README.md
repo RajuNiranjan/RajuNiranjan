@@ -13,11 +13,11 @@
 <li>🔭 I’m currently working as a SDE</li>
 <li>✨ Learning AWS</li>
 <li>🌱 Experimenting with React</li>
-<li>👨‍💻 All of my projects are available at [portfolio](https://rajuportfolio.vercel.app)</li>
+<li>👨‍💻 All of my projects are available at <a href="https://rajuportfolio.vercel.app">Portfolio</a></li>
 </ul>
 </td>
 <td>
-<img style="width: 100%" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
+<img style="width: 100%" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif">
 </td>
 </tr>
 </table>
