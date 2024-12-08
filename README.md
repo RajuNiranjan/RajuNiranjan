@@ -13,7 +13,7 @@
 <li>🔭 I’m currently working as a SDE</li>
 <li>✨ Learning AWS</li>
 <li>🌱 Experimenting with React</li>
-<li>👨‍💻 All of my projects are available at <a href="https://rajuportfolio.vercel.app">Portfolio</a></li>
+<li>👨‍💻 All of my projects are available at <a href="https://RajuNiranjan.vercel.app">Portfolio</a></li>
 </ul>
 </td>
 <td>
